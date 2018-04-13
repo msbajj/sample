@@ -1,0 +1,11 @@
+D:\VS2017\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.deps.json
+D:\VS2017\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.json
+D:\VS2017\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.dev.json
+D:\VS2017\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.dll
+D:\VS2017\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.pdb
+D:\VS2017\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.csprojResolveAssemblyReference.cache
+D:\VS2017\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.csproj.CoreCompileInputs.cache
+D:\VS2017\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfoInputs.cache
+D:\VS2017\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfo.cs
+D:\VS2017\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.dll
+D:\VS2017\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.pdb
